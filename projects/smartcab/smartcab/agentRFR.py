@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Sep 28 09:03:24 2016
+
+@author: iot2
+"""
+
 import random
 from environment import Agent, Environment
 from planner import RoutePlanner
